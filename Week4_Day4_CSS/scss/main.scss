@@ -1,0 +1,130 @@
+@import 'navbar';
+@import 'variables';
+@import 'masthead';
+
+div.col-xl-12 {
+    padding: 0px;
+}
+
+div.col-xl-12 {
+    padding: 0px;
+    display:block;
+    position: relative;
+
+}
+
+div.col-xl-12 h2{
+    text-align: center;
+    margin-top:50px;
+}
+
+
+
+
+.line_left1{
+
+    display: block;
+    border-bottom: 3px solid black;
+    width: 75px;
+    margin-left: 844px;
+    position: relative;
+    top: 8px;
+    float: left;
+
+}
+
+.line_right1 {
+    display: block;
+    border-bottom: 3px solid black;
+    width: 75px;
+    margin-left: 940px;
+    position: relative;
+    bottom: 8px;
+    float: left;
+}
+
+.star2{
+    color:black;
+    display: block;
+    text-align: center;
+    float:left;
+}
+
+#seventh {
+    text-align: center;
+    height: 40px;
+
+}
+
+#firstImageRow {
+
+    .portfolio_image{
+    
+        width:33%;
+        padding: 5px;
+}
+}
+
+#secondImageRow {
+    
+    .portfolio_image{
+    
+        width: 33%;
+        padding: 5px;
+}
+}
+
+#about{
+    background-color:  rgb(51, 192, 157);
+    color:white;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+#paragr{
+    background-color:  rgb(51, 192, 157);
+    color:white;
+    text-align: center;
+    padding-top: 20px;
+
+}
+
+#rowWithButton{
+    text-align: center;
+    background-color: rgb(51, 192, 157);
+    padding-bottom: 50px;
+}
+
+#smallButton {
+    background-color: rgb(51, 192, 157);
+    color: white;
+}
+
+.line_left2{
+
+    display: block;
+    border-bottom: 3px solid black;
+    width: 75px;
+    margin-left: 844px;
+    position: relative;
+    top: 8px;
+    float: left;
+
+}
+
+.line_right2 {
+    display: block;
+    border-bottom: 3px solid black;
+    width: 75px;
+    margin-left: 940px;
+    position: relative;
+    bottom: 8px;
+    float: left;
+}
+
+#fourteenth {
+    text-align: center;
+    height: 40px;
+
+}

@@ -1,0 +1,176 @@
+#header {
+  background-color: rgba(12, 12, 90, 0.835); }
+
+.nav-link {
+  color: white; }
+
+#header {
+  color: white; }
+
+#second, #third, #fourth, #fifth, #empty, #empty2 {
+  background-color: #33c09d; }
+
+#empty {
+  width: 100%;
+  height: 100px; }
+
+#empty2 {
+  width: 100%;
+  height: 30px; }
+
+#third, #fifth {
+  color: white; }
+
+#fourth {
+  text-align: center; }
+
+#second {
+  text-align: center; }
+
+.star1 {
+  color: white;
+  display: block;
+  text-align: center;
+  float: left; }
+
+.underline-left {
+  display: block;
+  border-bottom: 3px solid white;
+  width: 75px;
+  margin-left: 844px;
+  position: relative;
+  top: 8px;
+  float: left; }
+
+.underline-right {
+  display: block;
+  border-bottom: 3px solid white;
+  width: 75px;
+  margin-left: 940px;
+  position: relative;
+  bottom: 8px;
+  float: left; }
+
+#third {
+  text-align: center; }
+
+#fifth {
+  text-align: center;
+  height: 40px; }
+
+.underline-left1 {
+  display: block;
+  border-bottom: 3px solid white;
+  width: 75px;
+  margin-left: 844px;
+  position: relative;
+  top: 8px;
+  float: left; }
+
+.underline-right1 {
+  display: block;
+  border-bottom: 3px solid white;
+  width: 75px;
+  margin-left: 940px;
+  position: relative;
+  bottom: 8px;
+  float: left; }
+
+.star1 {
+  color: white;
+  display: block;
+  text-align: center;
+  float: left; }
+
+div.col-xl-12 {
+  padding: 0px; }
+
+div.col-xl-12 {
+  padding: 0px;
+  display: block;
+  position: relative; }
+
+div.col-xl-12 h2 {
+  text-align: center;
+  margin-top: 50px; }
+
+.line_left1 {
+  display: block;
+  border-bottom: 3px solid black;
+  width: 75px;
+  margin-left: 844px;
+  position: relative;
+  top: 8px;
+  float: left; }
+
+.line_right1 {
+  display: block;
+  border-bottom: 3px solid black;
+  width: 75px;
+  margin-left: 940px;
+  position: relative;
+  bottom: 8px;
+  float: left; }
+
+.star2 {
+  color: black;
+  display: block;
+  text-align: center;
+  float: left; }
+
+#seventh {
+  text-align: center;
+  height: 40px; }
+
+#firstImageRow .portfolio_image {
+  width: 33%;
+  padding: 5px; }
+
+#secondImageRow .portfolio_image {
+  width: 33%;
+  padding: 5px; }
+
+#about {
+  background-color: #33c09d;
+  color: white;
+  text-align: center;
+  margin-top: 40px; }
+
+#paragr {
+  background-color: #33c09d;
+  color: white;
+  text-align: center;
+  padding-top: 20px; }
+
+#rowWithButton {
+  text-align: center;
+  background-color: #33c09d;
+  padding-bottom: 50px; }
+
+#smallButton {
+  background-color: #33c09d;
+  color: white; }
+
+.line_left2 {
+  display: block;
+  border-bottom: 3px solid black;
+  width: 75px;
+  margin-left: 844px;
+  position: relative;
+  top: 8px;
+  float: left; }
+
+.line_right2 {
+  display: block;
+  border-bottom: 3px solid black;
+  width: 75px;
+  margin-left: 940px;
+  position: relative;
+  bottom: 8px;
+  float: left; }
+
+#fourteenth {
+  text-align: center;
+  height: 40px; }
+
+/*# sourceMappingURL=main.css.map */
