@@ -1,0 +1,21 @@
+.container {
+    margin-right: auto;
+    margin-right: auto;
+}
+
+#img1 {
+    display: block;
+    width: 100%;
+}
+
+h3 {
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 25px;
+}
+
+#combined {
+    display: block;
+    width: 100%;
+}

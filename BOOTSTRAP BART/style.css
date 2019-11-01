@@ -1,0 +1,21 @@
+.container {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.row {
+    text-align: center;
+}
+
+h1 {
+    padding-bottom: 15px;
+}
+
+h2 {
+    margin-top: 15px;
+    margin-bottom: 45px;
+}
+
+.links {
+    margin-bottom: 25px;
+}
