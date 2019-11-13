@@ -1,7 +1,4 @@
-
-
-
-
+/*
  var field = document.querySelector('div');
  var player = document.querySelector('#player');
  var stopmove = document.querySelector('#stop-moving');
@@ -25,3 +22,15 @@ player.style.left = event.clientX + "px";
     
  }
      stopmove.addEventListener('click', stopMoving);
+
+     */
+
+var $field = $("div");
+var $player = $("#player");
+
+$field.on("click", function(event) {
+    $("#player").animate({
+        'top': event.clientY,
+        'left': event.clientX
+    }, 2000);
+});
